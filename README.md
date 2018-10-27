@@ -12,7 +12,7 @@ Besides the data-set, what is new here:
 
 This is a Jupyter notebook so explanations are included as markdowns in the notebook. Feel free to play around with it and share comments if you have any.
 
-*The .zip file containing the books is not included in the repository due to book copyrights considerations, sorry about that.
+*The GOT corpus file is not included in this repository due to book copyrights considerations, sorry about that.
 However, you can create your own data-set with whichever book (or text in general) you'd like. Just make sure it is in a .zip file with one or more .txt files in it.*
 
 ## Dependencies:
